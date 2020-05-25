@@ -1,0 +1,2 @@
+H:\github\VS_work\mpi_pi\mpi_pi\Debug\mpi_pi.exe
+H:\github\VS_work\mpi_pi\mpi_pi\Debug\mpi_pi.pdb
