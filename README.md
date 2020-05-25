@@ -1,4 +1,4 @@
-# MPI_calculate_PIi
+# MPI_calculate_PI
  Calculate PI by Monte Carlo method and parallel cupute with MPI
 
 # First we should install MPI and Configure the environment. Please refer to https://blog.csdn.net/qq_36974075/article/details/81144807.
